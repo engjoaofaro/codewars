@@ -55,7 +55,9 @@ Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE) para mais
 
 ## 📊 Progresso
 
-- Ranking atual no CodeWars: ![Codewars Badge](https://www.codewars.com/users/joaobremgartner/badges/large)
+- Ranking atual no CodeWars: 
+
+![Codewars Badge](https://www.codewars.com/users/joaobremgartner/badges/large)
 
 ---
 ⚡ **Mantenha-se desafiado, continue codando!**
